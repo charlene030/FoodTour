@@ -1,0 +1,242 @@
+[
+  {
+    "RestaurantID": "C3_376490000A_000038",
+    "RestaurantName": "金捷發煎盤粿",
+    "Description": "這家位於雲林北港老街、馬祖廟前的金捷發煎盤粿，是在地人和遊客眾多來訪的店家之一。  早期老闆蔡先生在此開設的是一家「金捷發五金行」，後來傳統產業逐漸沒落才改行在店門口賣起煎盤粿早餐，由於沒有店名，許多人因此直接稱他為「金捷發煎盤粿」。",
+    "Address": "雲林縣北港鎮中山路80號",
+    "ZipCode": "651",
+    "Phone": "886-5-7835108",
+    "OpenTime": "06:00~11:30(賣完為止)",
+    "Picture": {
+      "PictureUrl1": "https://tour.yunlin.gov.tw/public/upload/old/20180607045844.jpg",
+      "PictureDescription1": "店面"
+    },
+    "Position": {
+      "PositionLon": 120.30439758300781,
+      "PositionLat": 23.565940856933594,
+      "GeoHash": "wsjw1d4cx"
+    },
+    "MapUrl": "https://goo.gl/sQpj1c",
+    "City": "雲林縣",
+    "SrcUpdateTime": "2024-01-10T01:37:08+08:00",
+    "UpdateTime": "2024-01-10T02:24:21+08:00"
+  },
+  {
+    "RestaurantID": "C3_376490000A_000157",
+    "RestaurantName": "上等冰",
+    "Description": "店家堅持只做安心、健康的好東西，除了親手熬煮紅豆、薏仁、綠豆、湯圓等冰品材料外，也親自挑選楊桃、梅子、鳳梨等水果進行曬乾與醃製，加上自動製冰沙機，讓大家吃冰也能吃得健康衛生，一杯冰涼的梅子冰、鳳梨冰、楊桃冰，讓你品嘗到懷念的古早味!!    店家特：手工豆花、古早味剉冰、養生湯飲",
+    "Address": "雲林縣虎尾鎮中正路271號",
+    "ZipCode": "632",
+    "Phone": "886-5-6339930",
+    "OpenTime": "AM 10:00~PM 22:00",
+    "Picture": {
+      "PictureUrl1": "https://tour.yunlin.gov.tw/public/upload/old/20180713015103.jpg",
+      "PictureDescription1": "門市照片"
+    },
+    "Position": {
+      "PositionLon": 120.43049621582031,
+      "PositionLat": 23.70539093017578,
+      "GeoHash": "wsjwu7qvc"
+    },
+    "City": "雲林縣",
+    "SrcUpdateTime": "2024-01-10T01:37:08+08:00",
+    "UpdateTime": "2024-01-10T02:24:21+08:00"
+  },
+  {
+    "RestaurantID": "C3_376490000A_000158",
+    "RestaurantName": "魯香香黃金樂排專賣店",
+    "Description": "魯香香黃金樂排專賣店，師承40年滷肋排的家傳味道，為雲林當地台灣美食必吃店家，就位於虎尾光復路路圓環旁，走入店家，可以看到採用台灣檜木桌椅，別有一番台灣情。    魯香香魯樂排飯以「輕鬆、休閒、價錢無負擔、能盡情享受高品質的佳餚」作為經營理念。魯香香的招牌「黃金魯肋排」彈牙的肉質、不膩的肉香、輕咬即和骨頭剝離的肉塊。    蔬食小菜，皆為家常菜，配合節令，尋找有機或當地農民生產的蔬菜，讓每位消費者都能盡情享受簡單卻豐富、濃厚、鮮美的台灣美食。      魯香香黃金樂排專賣店是雲林最具古早味的傳統台式餐點。為當地和觀光客必造訪的餐廳之一。店裡的招牌必點餐為「黃金魯肋排」，每份餐點都是老闆用心製作，老闆的堅持，為的就是讓每位饕客有著賓至如歸的感受。",
+    "Address": "雲林縣虎尾鎮光復路348號（圓環旁）",
+    "ZipCode": "632",
+    "Phone": "886-5-6338878",
+    "OpenTime": "AM 10:30~PM 14:00 PM 16:30~PM 20:00",
+    "Picture": {
+      "PictureUrl1": "https://tour.yunlin.gov.tw/public/upload/old/20180713015356.jpg",
+      "PictureDescription1": "店外觀"
+    },
+    "Position": {
+      "PositionLon": 120.4375,
+      "PositionLat": 23.7102108001709,
+      "GeoHash": "wsjwus7cv"
+    },
+    "MapUrl": "https://goo.gl/maps/emgNbqbosXwDw5nS9",
+    "City": "雲林縣",
+    "SrcUpdateTime": "2024-01-10T01:37:08+08:00",
+    "UpdateTime": "2024-01-10T02:24:21+08:00"
+  },
+  {
+    "RestaurantID": "C3_376490000A_000159",
+    "RestaurantName": "洪董魯味",
+    "Description": "良心、用心、客人吃得開心，就是洪董魯味所謂三心。洪董魯味在研發魯味口味時，就保持三心的理念前進，用最好的在地食材，使用生鮮當日的肉類及蔬菜類，熱門商品豆皮，是採古法用木材生火製作，所以它與一般豆皮特別不同。本店是滷汁找食物，所以在本店只要有的食物絕對都不會讓顧客失望的。",
+    "Address": "雲林縣斗六市愛國街12號",
+    "ZipCode": "640",
+    "Phone": "886-5-5329974",
+    "OpenTime": "PM 15:00~PM 23:00",
+    "Picture": {
+      "PictureUrl1": "https://tour.yunlin.gov.tw/public/upload/old/20180713015635.png",
+      "PictureDescription1": "店外觀"
+    },
+    "Position": {
+      "PositionLon": 120.54209899902344,
+      "PositionLat": 23.710859298706055,
+      "GeoHash": "wsjwzh2jf"
+    },
+    "MapUrl": "https://goo.gl/maps/mxwEtFYYtXmsmy558",
+    "City": "雲林縣",
+    "SrcUpdateTime": "2024-01-10T01:37:08+08:00",
+    "UpdateTime": "2024-01-10T02:24:21+08:00"
+  },
+  {
+    "RestaurantID": "C3_376490000A_000160",
+    "RestaurantName": "北港羊肉百年老店",
+    "Description": "緣起：羊肉老店是經營者太太之祖父於民國前所創立，由岳父、岳母繼承經營，因岳父過世，岳母年事高，妻舅又無意接棒，經營者不忍心百年老店羊肉就此消失，遂答應岳母接棒經營，開始跟岳母學老阿嬤傳承下來的手藝。     經營理念：本店以現宰本產羊肉為主，販售全羊大餐，尤其是羊肉米糕，從老祖母時代就極受歡迎。目前台灣販賣羊肉的業者很多，可是以羊肉米糕作為伴手禮的僅此一家。為保持原有品質口味，堅持採用本產羊肉（價格較進口羊肉貴2倍以上）。本店能從民國前經營至今，主要是靠著貨真價實、忠於原味、口感絕佳、服務親切的精神，才能一代傳承一代。",
+    "Address": "雲林縣北港鎮中山路100號",
+    "ZipCode": "651",
+    "Phone": "886-5-7823861",
+    "OpenTime": "AM 09:00~PM 19:00",
+    "Picture": {
+      "PictureUrl1": "https://tour.yunlin.gov.tw/public/upload/old/20180713015939.jpg",
+      "PictureDescription1": "羊肉爐"
+    },
+    "Position": {
+      "PositionLon": 120.30439758300781,
+      "PositionLat": 23.566320419311523,
+      "GeoHash": "wsjw1d4gz"
+    },
+    "City": "雲林縣",
+    "SrcUpdateTime": "2024-01-10T01:37:08+08:00",
+    "UpdateTime": "2024-01-10T02:24:21+08:00"
+  },
+  {
+    "RestaurantID": "C3_376490000A_000161",
+    "RestaurantName": "凹凸咖啡館",
+    "Description": "放鬆的午茶──日式老宅與青草大苑保留昭和初期至今的日式純木頭建築，維持傳統格局與通透感的長及大草坪。無論在院子、簷下、廊內品嚐手沖咖啡、下午茶都像電影畫面唯美，喜歡日式空氣感美感的你不容錯過。",
+    "Address": "雲林縣斗六市雲中街9巷12號",
+    "ZipCode": "640",
+    "Phone": "886-5-5339610",
+    "OpenTime": "營業時間：上午9:30 - 下午10:00 （週二休）",
+    "Picture": {
+      "PictureUrl1": "https://tour.yunlin.gov.tw/public/upload/StoreCover/230210040833050073DSKET.jpg",
+      "PictureDescription1": "凹凸咖啡館店"
+    },
+    "Position": {
+      "PositionLon": 120.53990173339844,
+      "PositionLat": 23.70832061767578,
+      "GeoHash": "wsjwygyqz"
+    },
+    "MapUrl": "https://goo.gl/maps/RarVqo2ZDWAWJYZf9",
+    "City": "雲林縣",
+    "SrcUpdateTime": "2024-01-10T01:37:08+08:00",
+    "UpdateTime": "2024-01-10T02:24:21+08:00"
+  },
+  {
+    "RestaurantID": "C3_376490000A_000162",
+    "RestaurantName": "Rich Café 濃咖啡",
+    "Description": "日益疏離的現代社會中,  我們相信,  存在心中的溫暖會被喚醒的。  延續台灣在地老品牌飛燕煉乳的實在精神，  提供的，不僅是用心的手作烘焙和飲品。  更深信，透過品嚐到的美好滋味，  也能同時滋潤心靈。  Rich Café   Touch your heart, Rich your mind.    手作司康/咖啡/飲品/生活美學專賣店",
+    "Address": "雲林縣斗六市榴南里斗工九路19-1號",
+    "ZipCode": "640",
+    "Phone": "886-5-5571485",
+    "OpenTime": "週一至週五 AM 09:00~PM 18:00",
+    "Picture": {
+      "PictureUrl1": "https://tour.yunlin.gov.tw/public/upload/old/20180713020716.jpg",
+      "PictureDescription1": "Rich Café 濃咖啡"
+    },
+    "Position": {
+      "PositionLon": 120.59860229492188,
+      "PositionLat": 23.714609146118164,
+      "GeoHash": "wsjybm15x"
+    },
+    "City": "雲林縣",
+    "SrcUpdateTime": "2024-01-10T01:37:08+08:00",
+    "UpdateTime": "2024-01-10T02:24:21+08:00"
+  },
+  {
+    "RestaurantID": "C3_376490000A_000164",
+    "RestaurantName": "仙地庭園咖啡",
+    "Description": "仙地庭園咖啡-位於華山咖啡園區的最高點，夜晚可看到整個西部平原的燈海連綿，不論賞景喝咖啡都是最佳選擇，來雲林古坑/欣賞著名的七縣市夜景，環境恬靜是休閒度假的好地方！",
+    "Address": "雲林縣古坑鄉桂林村桃源1-30號",
+    "ZipCode": "646",
+    "Phone": "886-5-5901989",
+    "OpenTime": "AM 10:00~PM 02:30",
+    "WebsiteUrl": "https://shiandi.yunlin.me/",
+    "Picture": {
+      "PictureUrl1": "https://tour.yunlin.gov.tw/public/upload/old/20180713021322.jpg",
+      "PictureDescription1": "仙地庭園咖啡招牌"
+    },
+    "Position": {
+      "PositionLon": 120.6051025390625,
+      "PositionLat": 23.59881019592285,
+      "GeoHash": "wsjy22jcn"
+    },
+    "MapUrl": "https://goo.gl/maps/H8EGe9T38x5HWKg1A",
+    "ParkingInfo": "有停車空間",
+    "City": "雲林縣",
+    "SrcUpdateTime": "2024-01-10T01:37:08+08:00",
+    "UpdateTime": "2024-01-10T02:24:21+08:00"
+  },
+  {
+    "RestaurantID": "C3_376490000A_000167",
+    "RestaurantName": "蜜茶站",
+    "Description": "臺一蜂業養蜂園為雲林縣崙背鄉養蜂產銷班 第一班 自產自銷的養蜂人家，園長因為覺得現代人喝的飲料中含太多的化學香料和果糖，所以乾脆自己開了一家飲料店【蜜茶站】，除了使用新鮮的水果以及當地新鮮的牛奶來做飲料，飲料裡面全都是-使用自家生產的蜂蜜調製，不添加果糖，讓大家喝得安心又健康。我們採複合式經營，除了飲品之外，也有蜂蜜、蜂花粉、蜂王乳、蜂蜜醋...等，純天然蜂蜜品伴手禮喔！歡迎大崙背體驗詔安客家文化的同時，別忘了順道來品嚐純天然蜂密調製的健康飲品及伴手禮....    店家特色：  1.100%純天然蜂蜜複合式茶飲店(招牌茶飲:蜂蜜百香果、純天宮蜂蜜醋、蜂蜜紅蘿蔔汁、蜂蜜檸檬...)   2.本店為崙背地區'國民旅遊卡特約商家'，歡迎來店使用國民旅遊卡消費'國產純天然蜂蜜產品'，年節送禮健康選擇...",
+    "Address": "雲林縣崙背鄉建國路18號",
+    "ZipCode": "637",
+    "Phone": "886-5-6969266",
+    "OpenTime": "AM 08:00~PM 22:00",
+    "Picture": {
+      "PictureUrl1": "https://tour.yunlin.gov.tw/public/upload/old/20180713023154.jpg",
+      "PictureDescription1": "蜜茶站照片"
+    },
+    "Position": {
+      "PositionLon": 120.35449981689453,
+      "PositionLat": 23.759950637817383,
+      "GeoHash": "wsjx4tr7x"
+    },
+    "City": "雲林縣",
+    "SrcUpdateTime": "2024-01-10T01:37:08+08:00",
+    "UpdateTime": "2024-01-10T02:24:21+08:00"
+  },
+  {
+    "RestaurantID": "C3_376490000A_000168",
+    "RestaurantName": "豬條a桶仔鵝",
+    "Description": "位於風頭水尾口湖水井村，老闆原為養豬戶，為了將這低調美食「家傳桶仔鵝」與人分享，並將原廢棄豬寮改建為特色風味餐廳，分享這原汁原味的桶仔鵝。桶仔鵝採用當地產地直送的黃金玉米鵝，再利用炭火慢慢烘烤而成，簡單調味，烤成皮脆肉嫩，且鮮嫩多汁的桶仔鵝。其他還有老饕最愛的「桶仔豬腳」，也是美味傳千里，吸引很多顧客。另外也有熱炒當地採用生態養殖的海鮮：文蛤、白蝦…等。",
+    "Address": "雲林縣口湖鄉水井村236號",
+    "ZipCode": "653",
+    "Phone": "886-5-5000000",
+    "OpenTime": "每周三、六、日 AM 10：00~PM 16：00",
+    "Picture": {
+      "PictureUrl1": "https://tour.yunlin.gov.tw/public/upload/old/20180713023443.jpg",
+      "PictureDescription1": "外觀照"
+    },
+    "Position": {
+      "PositionLon": 120.17340087890625,
+      "PositionLat": 23.52596092224121,
+      "GeoHash": "wsjmydg8e"
+    },
+    "MapUrl": "https://goo.gl/maps/Z4mYqdpz9yveh7pW8",
+    "City": "雲林縣",
+    "SrcUpdateTime": "2024-01-10T01:37:08+08:00",
+    "UpdateTime": "2024-01-10T02:24:21+08:00"
+  },
+  {
+    "RestaurantID": "C3_376490000A_000257",
+    "RestaurantName": "斗南勁味蚵仔麵線",
+    "Description": "推薦招牌除了蚵仔麵線外，還有「虱目魚漿麵線」美味料理，選用新鮮虱目魚制作而成魚漿，魚漿Q度十足，彈牙爽口，饕客最愛！ 2種新鮮食材加入油葱酥與筍絲的甜美湯頭裡，真是在地絕妙的好料理！老闆有調製獨特辣油，愛吃辣的你，品嚐麵線時前滴上些許，食用起來相當帶勁呢。 2012年更榮獲為「台灣小吃一百名店」店家呢！",
+    "Address": "雲林縣斗南鎮文元街45號",
+    "ZipCode": "630",
+    "Phone": "886-5-5000000",
+    "OpenTime": "AM 11:30~PM 17:30",
+    "Picture": {
+      "PictureUrl1": "https://tour.yunlin.gov.tw/public/upload/old/20180718035210.jpg",
+      "PictureDescription1": "斗南勁味蚵仔麵線"
+    },
+    "Position": {
+      "PositionLon": 120.47779846191406,
+      "PositionLat": 23.675640106201172,
+      "GeoHash": "wsjwtw128"
+    },
+    "MapUrl": "https://goo.gl/maps/5jsWE4eY39gZXH2g6",
+    "City": "雲林縣",
+    "SrcUpdateTime": "2024-01-10T01:37:08+08:00",
+    "UpdateTime": "2024-01-10T02:24:21+08:00"
+  }
+]

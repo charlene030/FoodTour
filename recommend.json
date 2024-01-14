@@ -1,0 +1,113 @@
+[
+  {
+    "RestaurantID": "C3_382000000A_206155",
+    "RestaurantName": "康喜軒牛角麵包總公司",
+    "Description": "三峽好伴手‧康喜軒金牛角-臺灣素有美食王國之稱，全臺各鄉鎮市都有地方指名的伴手好禮！說起新北市三峽區，金牛角可說是當地美食代表，想要品嚐外酥內Ｑ的金牛角又想了解三峽金牛角文化的民眾，康喜軒金牛角是你不可錯過的寶地！金牛角冰淇淋‧臺灣之光-康喜軒金牛角是三峽在地的麵包烘焙老店，人稱貓王的創始者為了傳承且創新家鄉的金牛角文化，積極投入研發金牛角風味的無限可能，其中金牛角冰淇淋是全臺首創的驕傲產品！ 近年來，康喜軒金牛角將觸角延伸至海外，要讓全球品嚐臺灣之光！",
+    "Address": "新北市239鶯歌區鶯歌區鶯桃路53號",
+    "ZipCode": "239",
+    "Phone": "886-2-26701861",
+    "OpenTime": "09:00∼18:00",
+    "Picture": {
+      "PictureUrl1": "https://newtaipei.travel/content/images/shops/13775/640x480_1249f74368b00000bf8d.jpg",
+      "PictureDescription1": "康喜軒牛角麵包總公司-牛角麵包"
+    },
+    "Position": {
+      "PositionLon": 121.34147644042969,
+      "PositionLat": 24.952089309692383,
+      "GeoHash": "wsqmcnqhm"
+    },
+    "Class": "其他",
+    "City": "新北市",
+    "SrcUpdateTime": "2024-01-13T01:38:10+08:00",
+    "UpdateTime": "2024-01-13T02:24:20+08:00"
+  },
+  {
+    "RestaurantID": "C3_376490000A_000164",
+    "RestaurantName": "仙地庭園咖啡",
+    "Description": "仙地庭園咖啡-位於華山咖啡園區的最高點，夜晚可看到整個西部平原的燈海連綿，不論賞景喝咖啡都是最佳選擇，來雲林古坑/欣賞著名的七縣市夜景，環境恬靜是休閒度假的好地方！",
+    "Address": "雲林縣古坑鄉桂林村桃源1-30號",
+    "ZipCode": "646",
+    "Phone": "886-5-5901989",
+    "OpenTime": "AM 10:00~PM 02:30",
+    "WebsiteUrl": "https://shiandi.yunlin.me/",
+    "Picture": {
+      "PictureUrl1": "https://tour.yunlin.gov.tw/public/upload/old/20180713021322.jpg",
+      "PictureDescription1": "仙地庭園咖啡招牌"
+    },
+    "Position": {
+      "PositionLon": 120.6051025390625,
+      "PositionLat": 23.59881019592285,
+      "GeoHash": "wsjy22jcn"
+    },
+    "MapUrl": "https://goo.gl/maps/H8EGe9T38x5HWKg1A",
+    "ParkingInfo": "有停車空間",
+    "City": "雲林縣",
+    "SrcUpdateTime": "2024-01-10T01:37:08+08:00",
+    "UpdateTime": "2024-01-10T02:24:21+08:00"
+  },
+  {
+    "RestaurantID": "C3_387000000A_000351",
+    "RestaurantName": "東東芋圓",
+    "Description": "頗具地方小吃特色的東東芋圓，非常適合做國民旅遊的推動景點，遊客若來大坑踏青、爬山，可來此嘗嘗芋圓的美味，而且一年四季，全年無休夏季以冰品為主，強調Q度口感，冬季以熱湯為主，加入紅豆湯、桂圓湯、薑汁或是燒仙草，別具一番風味，在寒冷的冬天裡來上一碗，可趨寒並提振精神。採用美國進口濾水器，水質保証乾淨、甘甜、衛生，讓客人享用的安心。",
+    "Address": "臺中市406北屯區東山路二段48-3號",
+    "ZipCode": "406",
+    "Phone": "886-4-22396349",
+    "OpenTime": "am10:00~pm22:00",
+    "Picture": {
+      "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/1335/640x480_Filedata635176282763788906.jpg",
+      "PictureDescription1": "東東芋圓"
+    },
+    "Position": {
+      "PositionLon": 120.74107360839844,
+      "PositionLat": 24.1798095703125,
+      "GeoHash": "wsmce9bcw"
+    },
+    "City": "臺中市",
+    "SrcUpdateTime": "2024-01-13T01:38:10+08:00",
+    "UpdateTime": "2024-01-13T02:24:20+08:00"
+  },
+  {
+    "RestaurantID": "C3_376600000A_000020",
+    "RestaurantName": "鼎藏靚鍋",
+    "Description": "新鮮、豐富的食材以火鍋呈現最原始的風味，高檔食材、平價消費，吃到飽、精緻套餐、聚會宴席，讓您有更多元的用餐選擇。",
+    "Address": "嘉義市東區大雅路一段842號",
+    "ZipCode": "600",
+    "Phone": "886-5-2757799",
+    "Picture": {
+      "PictureUrl1": "https://travel.chiayi.gov.tw/FileDownload/TravelInformation/Big/12b71cb77388fe4b2d3c626afe8fb7ef.jpg",
+      "PictureDescription1": "火鍋"
+    },
+    "Position": {
+      "PositionLon": 120.48538208007812,
+      "PositionLat": 23.48055076599121,
+      "GeoHash": "wsjttdwb0"
+    },
+    "Class": "中式美食",
+    "City": "嘉義市",
+    "SrcUpdateTime": "2024-01-13T01:38:10+08:00",
+    "UpdateTime": "2024-01-13T02:24:20+08:00"
+  },
+  {
+    "RestaurantID": "C3_376470000A_000038",
+    "RestaurantName": "鹿港脆皮雞蛋糕",
+    "Description": "位於文開路與中山路口這家「脆皮雞蛋糕」，一到下午時段，總是排滿等候的人群。但是這家的味道就是不一樣！原來秘訣就是：特殊的模具。老板本職是從事鑄鐵的工作，太太想要創業做雞蛋糕生意，老板就以自己的專長，為太太設計特別的可愛卡通模具。兩個造型一組，共有十多組，依序排列在烤爐上，按照時間先後順序，不斷地均勻翻轉地烘烤下。",
+    "Address": "彰化縣鹿港鎮中山路394號",
+    "ZipCode": "505",
+    "Phone": "886-4-7780898",
+    "OpenTime": "電話洽詢",
+    "Picture": {
+      "PictureUrl2": "https://tourism.chcg.gov.tw/upload/28/2012041610070933070.jpg",
+      "PictureDescription2": "鹿港脆皮雞蛋糕-攤位",
+      "PictureUrl1": "https://tourism.chcg.gov.tw/upload/28/2012041610072053395.jpg",
+      "PictureDescription1": "鹿港脆皮雞蛋糕-糕品"
+    },
+    "Position": {
+      "PositionLon": 120.43163299560547,
+      "PositionLat": 24.058921813964844,
+      "GeoHash": "wsm8u7z9k"
+    },
+    "City": "彰化縣",
+    "SrcUpdateTime": "2024-01-13T01:38:10+08:00",
+    "UpdateTime": "2024-01-13T02:24:20+08:00"
+  }
+]
